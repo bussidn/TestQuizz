@@ -9,7 +9,7 @@ public class E {
     Fizzbuzz fizzbuzz = new Fizzbuzz();
 
     @Test
-    public void not_so_thorough_test() {
+    public void should_do_the_fizz_and_the_buzz() {
         // given
         var thorough = new Integer[] {3, 4, 5};
         // when
